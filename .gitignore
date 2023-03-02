@@ -1,0 +1,29 @@
+/fbademo 
+/escher-1.7.3
+/=8.0.2
+/1.7.3.zip
+/STR
+/Toy_example
+/test
+
+*.DS_Store
+*.sw[op]
+.ipynb_checkpoints
+build
+
+*.py[co]
+__pycache__
+~$*
+.cache
+
+# Setuptools distribution folder.
+/dist
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+/d3flux
+/ScienceDirect_files_28Feb2023_13-52-48.919
+
+
+
